@@ -392,11 +392,12 @@ color: rgba(255, 255, 255, 0.6);
     background-color: #2F303A;
 }
 .footer-container{
+    align-items: baseline;
     display: flex;
     justify-content: flex-start;
 }
 .footer-cosial-block{
-    margin-top: 15px;
+    /* margin-top: 15px; */
     margin-left: 45px;
 }
 .footer-logo{
